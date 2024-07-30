@@ -66,4 +66,5 @@ To set up and run the application locally, follow these steps:
 4. **Setup and Running the Application**: Step-by-step instructions on how to set up the development environment and run the application locally.
 
 This `README.md` file will help others understand the project's purpose, design, and how to get it up and running.
-
+### Main Task List
+![Main Task List](https://github.com/AmanTiwari59/TO-DO-List-/blob/main/Screenshot%20(1882).png)
